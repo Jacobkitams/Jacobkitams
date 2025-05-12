@@ -1,4 +1,4 @@
-![MasterHead](https://softdevai.com/wp-content/uploads/2023/02/services-featured-ai-design.png)
+![MasterHead]([https://softdevai.com/wp-content/uploads/2023/02/services-featured-ai-design.png](https://eluminoustechnologies.com/blog/wp-content/uploads/2023/08/How-to-Use-AI-in-Web-Development.webp))
 <h1 align="center">Hi 👋, I'm Jacob kitams</h1>
 <h3 align="center">A passionate full stuck developer from Congo</h3>
 
